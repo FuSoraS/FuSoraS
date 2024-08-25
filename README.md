@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+* ✉️  You can contact me at [developer.FuSoraS@gmail.com](mailto:developer.FuSoraS@gmail.com)
+* 🧠  I'm learning New Lenguages, New Technologies
 ### Skills
 
 <p align="left">
