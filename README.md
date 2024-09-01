@@ -1,6 +1,6 @@
 ## Hi there 👋
 * ✉️  You can contact me at [developer.FuSoraS@gmail.com](mailto:developer.FuSoraS@gmail.com)
-* 🧠  I'm learning New Lenguages, New Technologies
+* 🧠  I'm learning Astro
 ### Skills
 
 <p align="left">
@@ -9,4 +9,4 @@
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FuSoraS&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FuSoraS&langs_count=8)
